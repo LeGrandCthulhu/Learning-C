@@ -1,0 +1,1 @@
+void epeler(char motAEpeler[], unsigned int tailleMot);

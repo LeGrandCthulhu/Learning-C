@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1632767631 source:c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\test\fahrenheit.c
+	<stdio.h>
+	<stdlib.h>
+	"Fahrenheit.h"
+
+1632767618 c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\test\fahrenheit.h
+
+1668175678 source:c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1668176944 source:c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\test\exercices\fahrenheit.c
+	<stdio.h>
+	<stdlib.h>
+	"Fahrenheit.h"
+
+1668176960 c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\test\exercices\fahrenheit.h
+

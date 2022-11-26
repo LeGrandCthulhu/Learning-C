@@ -1,0 +1,1 @@
+int sommeCarres(int n);

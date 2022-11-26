@@ -1,0 +1,1 @@
+char *reverse(char motAReverse[], unsigned int tailleTableau);

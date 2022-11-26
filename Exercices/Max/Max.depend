@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668188274 source:c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\exercices\max\max.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+	"Max.h"
+
+1668187673 c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\exercices\max\max.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668210506 source:c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\exercices\epeler\epeler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Epeler.h"
+
+1668210328 c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\exercices\epeler\epeler.h
+

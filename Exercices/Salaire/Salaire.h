@@ -1,0 +1,1 @@
+float calculSalaire(float heures, float salaireHoraire);

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668205038 source:c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\exercices\disque\disque.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+	"Disque.h"
+
+1668205059 c:\users\utilisateur\desktop\pierre\programmation\c, c++, c#\c, c++\c\exercices\disque\disque.h
+

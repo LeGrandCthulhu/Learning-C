@@ -1,0 +1,1 @@
+void disque(float rayon, float *perimetre, float *surface);
